@@ -1,0 +1,7 @@
+The files in this repository are licensed under Creative Commons CC-BY.
+For purposes of attribution the following information is supplied:
+Creator/Authors: William H. Press and John Hawkins
+Copyright notice: Copyright (C) 2020 William H. Press and John Hawkins
+License notice: CC-BY 2.0 https://creativecommons.org/licenses/by/2.0/
+Link to the material: https://github.com/whpress/forensicgenealogy
+Title of the material: "Likelihood Models for Forensic Genealogy"
